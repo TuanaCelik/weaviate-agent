@@ -1,0 +1,5 @@
+weaviate-client
+python-dotenv
+llama-index
+llama-index-vector-stores-weaviate
+llama-index-embeddings-openai
